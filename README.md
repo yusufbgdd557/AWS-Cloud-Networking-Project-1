@@ -5,6 +5,8 @@ This repository showcases the steps I took to configure a Virtual Private Cloud 
 
 ## Project Overview
 
+![Public VPC 1](https://github.com/user-attachments/assets/752585eb-22ca-4aad-8d7f-9afcbf4a653c)
+
 In this project, I successfully configured the following components:
 
 - **VPC**: Created a custom Virtual Private Cloud with a CIDR block of `10.0.0.0/16`.
