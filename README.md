@@ -42,7 +42,7 @@ This project helped me solidify my understanding of AWS networking components, p
 
 ## Next Steps
 
-I plan to further enhance this project by deploying EC2 instances within the subnet, configuring auto-scaling groups, and experimenting with private subnets and NAT Gateways to manage instances that don't need direct internet access.
+I plan to further enhance this project by creating a private subnet within my VPC. This later on will involve deploying EC2 instances within the subnets and refining the configuration to ensure proper security and connectivity for resources that do not require direct internet access.
 
 ## Project Screenshots
 
