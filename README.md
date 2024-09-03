@@ -1,5 +1,5 @@
 
-# AWS VPC Networking Project
+# AWS Cloud Networking - Build VPC, Configure Public Subnet & Internet Access
 
 This repository showcases the steps I took to configure a Virtual Private Cloud (VPC) in AWS, along with setting up a subnet, Internet Gateway, Route Table, Security Groups, and Network ACLs (NACLs). This project allowed me to deepen my understanding of AWS networking and cloud security practices.
 
